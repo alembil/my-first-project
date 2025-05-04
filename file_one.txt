@@ -24,3 +24,12 @@ eggzactly, excellent work bro
 thank you very much
 now the rest is up to you. make me proud.
 i will make you proud...don't worry
+
+congrats, you encountered your first error message.....ow...i forgot
+dont worry, i intentionally wanted you to forget.
+this is called a bug and i know you have heared a lot about them.
+..yees
+now its time for debuggin...
+wow...already
+yep fix what you did wrong and try again.
+oky...ill try
