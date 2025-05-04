@@ -1,0 +1,8 @@
+vs code is not picking up the changes but we will use the cmd
+okay...maybe it's doin it auto
+naa
+it has to show some numbers at the fork like thingow okay
+that wasnt part of the operation
+so what is the solution here
+git stage
+shit i didnt think of that my vscode autosaves all my code so
